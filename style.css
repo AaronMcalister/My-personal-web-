@@ -1,3 +1,13 @@
 .wow {
   width: 100px;
 }
+body{
+background-color:lightyellow;
+}
+ol{
+color:#a87d32;
+}
+img{
+border:5px solid gray;
+  border-radius:20%;
+}
